@@ -48,11 +48,13 @@ class App extends StatelessWidget {
               const SizedBox(
                 height: 80,
               ),
-              Text(
-                'Total Balance',
-                style: TextStyle(
-                  fontSize: 22,
-                  color: Colors.white.withOpacity(0.8),
+              Container(
+                child: Text(
+                  'Total Balance',
+                  style: TextStyle(
+                    fontSize: 22,
+                    color: Colors.white.withOpacity(0.8),
+                  ),
                 ),
               ),
               const SizedBox(
