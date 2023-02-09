@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <h1>Wallet App</h1>
-<img src="wallet_app.png">
+<img width="200" height="500" src="wallet_app.png">
