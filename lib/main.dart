@@ -118,7 +118,7 @@ class App extends StatelessWidget {
                   borderRadius: BorderRadius.circular(25),
                 ),
                 child: Padding(
-                  padding: const EdgeInsets.all(20),
+                  padding: const EdgeInsets.all(30),
                   child: Row(
                     children: [
                       Column(
@@ -133,7 +133,7 @@ class App extends StatelessWidget {
                             ),
                           ),
                           const SizedBox(
-                            height: 10,
+                            height: 20,
                           ),
                           Row(
                             children: [
@@ -141,17 +141,17 @@ class App extends StatelessWidget {
                                 '6 428',
                                 style: TextStyle(
                                   color: Colors.white,
-                                  fontSize: 20,
+                                  fontSize: 22,
                                 ),
                               ),
                               const SizedBox(
-                                width: 5,
+                                width: 10,
                               ),
                               Text(
                                 'EUR',
                                 style: TextStyle(
                                   color: Colors.white.withOpacity(0.8),
-                                  fontSize: 20,
+                                  fontSize: 18,
                                 ),
                               ),
                             ],
