@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <h1>Wallet App</h1>
-<img width="300" height="600" src="results/wallet_app.png">
+<img width="300" height="600" src="wallet_app.png">
 <h1>Pomodoro App</h1>
-<img width="300" height="600" src="results/Pomodoro_app.png">
+<img width="300" height="600" src="Pomodoro_app.png">
