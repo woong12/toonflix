@@ -64,18 +64,15 @@ class _MyLargeTitleState extends State<MyLargeTitle> {
   @override
   void initState() {
     super.initState();
-    print('initState');
   }
 
   @override
   void dispose() {
-    print('dispose');
     super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
-    print('build');
     return Text(
       "My Large Title",
       style: TextStyle(
