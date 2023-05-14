@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/screens/home_screen.dart';
 
 void main() {
   runApp(const App());
@@ -25,7 +24,7 @@ class _AppState extends State {
         cardColor: const Color(0xFFF4EDDB),
         scaffoldBackgroundColor: const Color(0xFFE7626C),
       ),
-      home: const HomeScreen(),
+      // home: const HomeScreen(),
     );
   }
 }
